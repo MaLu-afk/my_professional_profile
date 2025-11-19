@@ -1,4 +1,3 @@
-// src/components/Hero/Hero.tsx
 import { Download, ArrowRight } from 'lucide-react';
 
 export const Hero = () => {

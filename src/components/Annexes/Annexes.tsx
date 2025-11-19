@@ -1,4 +1,3 @@
-// src/components/Annexes/Annexes.tsx
 export const Annexes = () => {
   return (
     <section id="annexes" className="py-20 bg-white">

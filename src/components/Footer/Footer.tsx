@@ -1,4 +1,3 @@
-// src/components/Footer/Footer.tsx
 import { Linkedin, Github, Mail, MapPin } from 'lucide-react';
 
 export const Footer = () => {

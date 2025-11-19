@@ -1,4 +1,3 @@
-// src/components/Projects/Projects.tsx
 interface Project {
   id: number
   title: string

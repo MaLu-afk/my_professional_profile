@@ -1,4 +1,3 @@
-// src/components/Professional/Professional.tsx
 export const Professional = () => {
   return (
     <section id="professional" className="py-20 bg-gray-50">
